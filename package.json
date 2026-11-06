@@ -1,7 +1,7 @@
 {
   "name": "dsh-netease-float",
   "version": "2.0.0",
-  "description": "Full-page NetEase Cloud Music player for DeepSeek Harness: player page, lyrics, playlists, search, account settings. 网易云音乐整页播放器插件。",
+  "description": "Full-page NetEase Cloud Music player for DeepSeek Harness: player page, lyrics, playlists, search and account settings. 网易云音乐整页播放器插件。",
   "license": "MIT",
   "type": "module",
   "keywords": [
@@ -23,6 +23,7 @@
     "lib",
     "cordis.patch.yml",
     "README.md",
+    "README.en.md",
     "LICENSE"
   ],
   "engines": {
